@@ -55,7 +55,7 @@
 
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                    Laravel has wonderful, thorough documentation covering every aspect of the framework. Whether you are new to the framework or have previous experience with Laravel, we recommend reading all of the documentation from beginning to end.
+                                Laravel memiliki dokumentasi yang bagus dan menyeluruh yang mencakup setiap aspek kerangka kerja. Apakah Anda baru mengenal framework atau memiliki pengalaman sebelumnya dengan Laravel, kami sarankan untuk membaca semua dokumentasi dari awal hingga akhir.
                                 </div>
                             </div>
                         </div>
@@ -68,7 +68,7 @@
 
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                    Laracasts offers thousands of video tutorials on Laravel, PHP, and JavaScript development. Check them out, see for yourself, and massively level up your development skills in the process.
+                                Laracasts menawarkan ribuan video tutorial tentang pengembangan Laravel, PHP, dan JavaScript. Lihat mereka, lihat sendiri, dan tingkatkan keterampilan pengembangan Anda secara besar-besaran dalam prosesnya.
                                 </div>
                             </div>
                         </div>
